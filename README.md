@@ -17,7 +17,7 @@ Oksanium — персональный токен, рождённый как по
 
 Jetton выпущен в сеть TON **25.11.2026 в 18:14 МСК**. Эмиссия — 2 511 260 000 OXN (дата рождения проекта, зашитая в число: 25.11.26), 100% у создателя.
 
-Jetton master: `UQCK2zm0J44okeUy_jqctePK87gmlecu512inw6EhLrcmKz`
+Jetton master: `EQBMqPREc5pQ5jYnNBlffD-qpU71DRPKWmnOmKiY7m2og426` (в Walt отображается как `UQBMqPREc5pQ5jYnNBlffD-qpU71DRPKWmnOmKiY7m2og9B_` — это тот же адрес)
 
 ## Эмблема
 
